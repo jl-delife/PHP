@@ -1,0 +1,7 @@
+input {
+    width: 20rem;
+
+    &:last-of-type {
+        width: 10rem;
+    }
+}

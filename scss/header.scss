@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(
+        125deg,
+        rgb(82, 188, 190) 34%,
+        rgb(193, 122, 250) 61%
+    ) !important;
+
+    header {
+        background: linear-gradient(
+            225deg,
+            rgba(193, 122, 250, 1) 30%,
+            rgba(82, 188, 190, 1) 63%
+        );
+    }
+}

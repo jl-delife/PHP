@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(125deg, rgb(82, 188, 190) 34%, rgb(193, 122, 250) 61%) !important;
+}
+body header {
+  background: linear-gradient(225deg, rgb(193, 122, 250) 30%, rgb(82, 188, 190) 63%);
+}
+
+/*# sourceMappingURL=header.css.map */
